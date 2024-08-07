@@ -53,7 +53,7 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://telegra.ph/file/64b60a3b37f707ebf19a3.jpg" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://telegra.ph/file/64b60a3b37f707ebf19a3.jpg" alt="PAIR-CODE" border="2" width="170" height="40" ></a>
 
 
 <a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
